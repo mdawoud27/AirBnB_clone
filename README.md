@@ -1,4 +1,4 @@
-# AirBnB clone - The console
+# AirBnB clone Project
 
 <p align="center">
   <img src="airBnB.png" alt="airBnB" width="40%">
